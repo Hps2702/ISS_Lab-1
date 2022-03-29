@@ -1,4 +1,3 @@
-other_details
 Roll:2021101067
 Branch:CSE
 
